@@ -6,6 +6,3 @@ unit_system: metric
 currency: NZD
 time_zone: Pacific/Auckland
 customize: !include customize.yaml
-allowlist_external_dirs:
-  - /data/homeassistant
-  - /home/homeassistant/maps

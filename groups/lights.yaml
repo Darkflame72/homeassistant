@@ -1,0 +1,13 @@
+name: Lights
+entities:
+- light.left_bedside
+- light.lounge_main
+- light.master_bedroom_main
+- light.shapes_8249
+- light.sleepout1
+- light.sleepout2
+- light.sleepout3
+- light.sleepout4
+- light.sleepout5
+- light.sleepout6
+- light.right_bedside

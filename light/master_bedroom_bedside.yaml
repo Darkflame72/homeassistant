@@ -1,0 +1,5 @@
+- platform: group
+  name: 'Master bedroom bedside'
+  unique_id: 'master_bedroom_bedside'
+  entities:
+    - light.yeelight_strip1_286c07afc307

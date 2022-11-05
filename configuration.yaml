@@ -9,7 +9,6 @@ default_config:
 
 # custom config
 group: !include_dir_named groups/
-scripts: !include_dir_named scripts/
 automation: !include_dir_list automation/
 scene: !include_dir_list scenes/
 proximity: !include_dir_merge_named proximity/

@@ -1,2 +1,35 @@
+# Directory (contents) ignores
+.cloud
+.storage
+deps
+
+# Generic ignores
+*.log
+*.log.*
+*.db
+*.db-shm
+*.db-wal
+*.pyc
+._*
+__pycache__
+.HA_VERSION
 secrets.yaml
-home-assistant_v2.db
+
+# ESPHome ignores
+esphome/.*/
+
+# Ignore add-on files
+airsonos.xml
+
+# Build-in blueprints ignores
+blueprints/*/homeassistant
+
+# Ignore files created by IDE's
+.vscode
+.Trash*
+.DS_Store
+
+# Ignore vendored stuff
+custom_components
+themes
+www/community

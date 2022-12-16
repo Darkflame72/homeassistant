@@ -5,4 +5,5 @@ elevation: !secret elevation
 unit_system: metric
 currency: NZD
 time_zone: Pacific/Auckland
+country: NZ
 customize: !include customize.yaml

@@ -28,3 +28,5 @@ alarm_control_panel: !include_dir_list alarm/
 
 # support influxdb 2nd db
 influxdb:
+  username: !secret influxdb_username
+  password: !secret influxdb_password

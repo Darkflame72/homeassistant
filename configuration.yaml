@@ -25,3 +25,6 @@ light: !include_dir_merge_list light/
 switch: !include_dir_merge_list switch/
 
 alarm_control_panel: !include_dir_list alarm/
+
+# support influxdb 2nd db
+influxdb:
